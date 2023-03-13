@@ -15,4 +15,10 @@ Infinitelly Calculating Digits of Pi on Rapsberry Pi Pico
 Makes use of:
 - https://github.com/ozhantr/DigitLedDisplay/
 
-![pi_machine](https://user-images.githubusercontent.com/38574378/224581754-acded585-7f55-4bdb-a56c-e0261c317b01.jpg)
+C code from:
+- https://bellard.org/pi/
+
+Adapted to this use.
+
+
+<p><img src="https://user-images.githubusercontent.com/38574378/224581754-acded585-7f55-4bdb-a56c-e0261c317b01.jpg" width="50%" height="50%"/></p>
