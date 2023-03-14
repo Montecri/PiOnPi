@@ -22,3 +22,6 @@ Adapted to this use.
 
 
 <p><img src="https://user-images.githubusercontent.com/38574378/224581754-acded585-7f55-4bdb-a56c-e0261c317b01.jpg" width="50%" height="50%"/></p>
+
+
+https://www.linkedin.com/pulse/pi-on-pi-happy-pi-day-2023-2nd-generation-machine-cristiano-monteiro
