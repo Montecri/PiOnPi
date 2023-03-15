@@ -37,7 +37,7 @@
 DigitLedDisplay ld = DigitLedDisplay(19, 17, 18);
 
 /* uncomment the following line to use 'long long' integers */
-/* #define HAS_LONG_LONG */
+#define HAS_LONG_LONG
 
 #ifdef HAS_LONG_LONG
 #define mul_mod(a, b, m) (((long long)(a) * (long long)(b)) % (m))
